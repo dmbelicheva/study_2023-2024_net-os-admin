@@ -83,7 +83,7 @@ header-includes:
 
 **Установка DHCP-сервера**
 
-После загрузки своей операционной системы перейдем в рабочий каталог с проектом:cd `C:\Users\dasha\work\study\dmbelicheva\vagrant`
+После загрузки своей операционной системы перейдем в рабочий каталог с проектом: `cd C:\Users\dasha\work\study\dmbelicheva\vagrant`
 
 Запустим виртуальную машину server командой `make server-up`.
 
